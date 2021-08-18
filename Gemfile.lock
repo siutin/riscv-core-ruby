@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bindata (2.4.10)
+    elftools (1.1.3)
+      bindata (~> 2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  elftools
+
+BUNDLED WITH
+   2.2.22
