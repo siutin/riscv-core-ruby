@@ -6,10 +6,10 @@ GEM
       bindata (~> 2)
 
 PLATFORMS
-  x86_64-linux
+  ruby
 
 DEPENDENCIES
   elftools
 
 BUNDLED WITH
-   2.2.22
+   1.17.3
